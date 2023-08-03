@@ -32,6 +32,7 @@
     "vite": "4.4.5"
   },
   "dependencies": {
+    "@changesets/cli": "^2.26.2",
     "@siriwut.pw/demo-kpc": "^0.0.0"
   }
 }
