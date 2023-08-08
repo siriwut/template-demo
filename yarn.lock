@@ -420,11 +420,6 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@siriwut.pw/demo-kpc@^0.0.0":
-  version "0.0.0"
-  resolved "https://registry.yarnpkg.com/@siriwut.pw/demo-kpc/-/demo-kpc-0.0.0.tgz#d79146e9670609428b490d949a7a4ab1df894e87"
-  integrity sha512-4tJDIlL/sFStp1FDXFdbLI4B1ZsKKeYvYbfnZOQH5jEPIIbVov/KtIc+N4qQJqIYM7/xO2MeKqKZK8JEbW10VA==
-
 "@types/is-ci@^3.0.0":
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/@types/is-ci/-/is-ci-3.0.0.tgz#7e8910af6857601315592436f030aaa3ed9783c3"
